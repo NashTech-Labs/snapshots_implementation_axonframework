@@ -1,2 +1,2 @@
-# snapshots_implementation_axonframework
-Basic implementation of  snapshots in axonframework
+# implementation_axonframework
+Basic implementation of axonframework
